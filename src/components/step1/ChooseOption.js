@@ -7,20 +7,16 @@ export default function ChooseOption() {
 
     const handleAppear = () => {
         setAppear(true)
-        console.log("true")
     }
     const handleDisAppear = () => {
         setAppear(false)
-        console.log("false")
     }
 
     const handleAppear2 = () => {
         setAppear2(true)
-        console.log("true")
     }
     const handleDisAppear2 = () => {
         setAppear2(false)
-        console.log("false")
     }
 
     return (
