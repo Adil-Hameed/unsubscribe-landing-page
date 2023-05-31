@@ -173,7 +173,7 @@ export default function ChooseOption() {
                                 </radialGradient>
                             </defs>
                         </svg>
-                        No longer interested in your products/services</span>
+                        No longer interested in your services</span>
                 </label>
 
                 <label className='check-box-parent mb-3 px-0'>
